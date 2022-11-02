@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "Test project for EPAM learning course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belashdv/JS-training.git"
+  },
+  "author": "Dmitrii Belash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belashdv/JS-training/issues"
+  },
+  "homepage": "https://github.com/belashdv/JS-training#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
